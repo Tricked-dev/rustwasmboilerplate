@@ -7,3 +7,5 @@ It creates wasm binaries that are less than 200kb by default due to the optimiza
 Having smaller wasm binary size makes loading them faster.
 
 btw i have no idea what im doing when writing wasm and rust and if you have better ways to do anything in this repo please make a pull request or issue so other people can benefit from your knowledge
+
+I also made a little blog about it <https://tricked.dev/blog/writing-console-log-with-wasm/> <sub><sup> not that its all that useful just seo stuff ig </sup></sub>
